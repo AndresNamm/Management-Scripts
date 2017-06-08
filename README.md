@@ -1,0 +1,1 @@
+A few simple scripts for some directory, text operations. The repo includes some Regex and good references for learning it.
